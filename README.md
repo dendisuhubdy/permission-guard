@@ -55,7 +55,7 @@ import { guard } from "https://deno.land/x/permissionGuard@22f4cc3/mod.ts";
 
 ## Examples
 
-To run the [examples](./examples), you have two choices:
+To run the [examples](./examples):
 
 1. Clone the `permission-guard` repo locally:
 
